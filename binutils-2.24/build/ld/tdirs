@@ -1,0 +1,6 @@
+tdir_elf_x86_64=x86_64-unknown-linux-gnu
+tdir_elf32_x86_64=x86_64-unknown-linux-gnu
+tdir_elf_i386=i386-unknown-linux-gnu
+tdir_i386linux=i386-unknown-linux-gnuaout
+tdir_elf_l1om=x86_64-unknown-linux-gnu
+tdir_elf_k1om=x86_64-unknown-linux-gnu

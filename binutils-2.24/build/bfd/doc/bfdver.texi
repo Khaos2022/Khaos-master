@@ -1,0 +1,4 @@
+@set VERSION 2.24
+@set VERSION_PACKAGE (GNU Binutils) 
+@set UPDATED 五月 2020
+@set BUGURL @uref{http://www.sourceware.org/bugzilla/}
