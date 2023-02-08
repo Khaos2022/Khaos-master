@@ -42,7 +42,7 @@ FuFi.all
 ```
 
 ## Paper
-If you find Khaos useful, please cite our paper:
+If you find Khaos useful, please cite our paper in CGO'23:
 ```
 Peihua Zhang, Chenggang Wu, Mingfan Peng, Kai Zeng, Ding Yu, Yuanming Lai, Yan Kang, Wei Wang, and Zhe Wang. 2023. Khaos: The Impact of Inter-procedural Code Obfuscation on Binary Diffing Techniques. In Proceedings of the 21st ACM/IEEE International Symposium on Code Generation and Optimization (CGO ’23), February 25 – March 1, 2023, Montréal, QC, Canada. ACM, New York, NY, USA, 13 pages. https://doi.org/10.1145/3579990.3580007
 ```
